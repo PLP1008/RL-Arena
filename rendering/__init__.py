@@ -1,0 +1,1 @@
+# rendering/ — pygame-based display
